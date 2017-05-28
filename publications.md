@@ -4,7 +4,6 @@ title: Publications
 permalink: /Publications/
 ---
 
-### Publications
 
 #### Papers in peer reviewed journals
 
