@@ -10,8 +10,10 @@ permalink: /CV/
 Materials and Devices   
 Tyndall National Institute   
 Cork, Ireland   
-Tel: +353 (0)21 2346215   
-E-mail: jiang.cao@tyndall.ie     
+
+|--------------------:|:-------------------------------------|
+| Tel:                | +353 (0)21 2346215                   |
+| E-mail:             | jiang.cao@tyndall.ie                 |
 
 
 #### Education
