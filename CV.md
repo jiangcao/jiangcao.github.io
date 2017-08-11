@@ -11,56 +11,43 @@ Materials and Devices
 Tyndall National Institute  
 Cork, Ireland               
 phone: +353 (0)21 2346215        
-email: jiang.cao@tyndall.ie               
+e-mail: jiang.cao@tyndall.ie               
 
 
 
 Education
 ----------
 
+- **2017**  Ph.D. in Nanoelectronics, *Université Grenoble-Alpes*, France
+- **2013**  M.Sc. in Electrical Engineering, *Institut National des Sciences Appliquées de Lyon*, France
+- **2013**  M.Sc. in Signal and Image Processing, *Institut National des Sciences Appliquées de Lyon*, France
+- **2010**  Classe préparatoire d'ingénieur, *Institut National des Sciences Appliquées de Lyon*, France
 
-**2017**  Ph.D. in Nanoelectronics, Université Grenoble-Alpes, France
-**2013**  M.Sc. in Electrical Engineering, Institut National des Sciences Appliquées de Lyon, France
-**2013**  M.Sc. in Signal and Image Processing, Institut National des Sciences Appliquées de Lyon, France
-**2010**  Classe préparatoire d'ingénieur, Institut National des Sciences Appliquées de Lyon, France
+
 
 Academic Experience 
 --------------------
 
+- **2017 - present**, researcher, *Tyndall National Institute*, Ireland
+- **2013 - 2016**, teaching assistant, *Grenoble Institute of Technology*, France
+  + Electronic Circuit, Autumn 2014 and 2015
+  + Microprocessor and Assembly Language, Spring 2015 and 2016
+  + Physics, Spring 2016
 
-| 
 
-**Researcher (non-tenure)**, **Tyndall National Institute**, Ireland 
-                        
-Studying the electronic transport properties of PbTe using first-principles and Boltzmann transport equations.
+Professional Experience
+------------------------
 
-**Université Grenoble Alpes**, France
-**PhD Research**                                   **2013 - 2016**
-Studying the mechanisms of transport in 2-D material tunnel FET
+- **2013**, 6 months, research engineer, *Alstom Grid*, France
+- **2012**, 6 months, electronic engineer, *Renault Trucks*, France
 
-Results: Developed Fortran codes parallelized with OpenMP for quantum
-transport NEGF simulations, used it to predict the performances of
-vertical tunnel FETs based on 2-D gapped materials, explained the
-fundamental aspects of the device working principle and studied the role
-of several design parameters.
 
-**Teaching Assistant**                              **2014 - 2016**
-Co-taught undergraduate level courses for the electrical engineering
-students. Shared responsibility for lab works, tutorials, exams,
-homework assignments, and grades.
+Projects
+---------
 
-- Electronic Circuit, Autumn 2014 and 2015
-- Microprocessor and Assembly Language, Spring 2015 and 2016
-- Physics, Spring 2016
-
-**INSA de Lyon**, France
-
-**Teaching Assistant**                               **2010 - 2011**
-Duties included leading tutorial exercises for undergraduates, and
-fielding of student questions.
-
-- Physics, Autumn 2010
-
+- **2013**, designed an algorithm in Matlab for automatic recognition and classification of the snow accumulation on the road based on the camera images, 3 members
+- **2012**, designed and implemented a circuit board based on dsPIC micro-controller in order to precisely control the angular position and velocity of an electric motor, 3 members
+- **2011**, implemented a digital filter to meet an amplitude response requirement by using VHDL and Xilinx FPGA, 4 members
   
 
 
