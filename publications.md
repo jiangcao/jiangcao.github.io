@@ -22,4 +22,4 @@ permalink: /Publications/
 #### International conferences presentations
 
 1. “Quantum simulation of tunnel field-effect transistors based on transition metal dichalcogenides,” in [Graphene 2015, 2015.](https://scholar.google.fr/scholar?oi=bibs&cluster=7837911913977867377&btnI=1&hl=fr)
-2. 
+2. "A computational study of van der Waals tunnel transistors: Fundamental aspects and design challenges," in [2015 IEEE International Electron Devices Meeting (IEDM)](http://ieee-iedm.org/2015/)
