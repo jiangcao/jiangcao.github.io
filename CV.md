@@ -19,10 +19,9 @@ e-mail: jiang.cao@tyndall.ie
 Education
 ----------
 
-- **2017**  Ph.D. in Nanoelectronics, [Université Grenoble-Alpes](http://www.univ-grenoble-alpes.fr), France
-- **2013**  M.Sc. in Electrical Engineering, [Institut National des Sciences Appliquées de Lyon](https://www.insa-lyon.fr), France
-- **2013**  M.Sc. in Signal and Image Processing, [Institut National des Sciences Appliquées de Lyon](http://www.master-si.insa-lyon.fr), France
-- **2010**  Classe préparatoire d'ingénieur, [Institut National des Sciences Appliquées de Lyon](https://www.insa-lyon.fr), France
+- **2013 - 2017**  Ph.D. in Nanoelectronics, [Université Grenoble-Alpes](http://www.univ-grenoble-alpes.fr), France
+- **2010 - 2013**  M.Sc. in Electrical Engineering (*diplôme d'ingénieur*), and M.Sc. in Signal and Image Processing, [Institut National des Sciences Appliquées de Lyon](https://www.insa-lyon.fr), France
+- **2008 - 2010**  Classe préparatoire d'ingénieur, [Institut National des Sciences Appliquées de Lyon](https://www.insa-lyon.fr), France
 
 
 
