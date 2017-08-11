@@ -7,22 +7,26 @@ permalink: /CV/
 Jiang Cao
 =========
 
--------------------------------  --------------------
-Materials and Devices             +353 (0)21 2346215                   
-Tyndall National Institute        jiang.cao@tyndall.ie                        
-Cork, Ireland   
--------------------------------  --------------------
+Materials and Devices       
+Tyndall National Institute  
+Cork, Ireland               
+phone: +353 (0)21 2346215        
+email: jiang.cao@tyndall.ie               
 
-              
 
-## Education
 
-Ph.D. in Nanoelectronics, Université Grenoble-Alpes, France (2017)    
-M.Sc. in Electrical Engineering, Institut National des Sciences Appliquées de Lyon, France (2013)   
-M.Sc. in Signal and Image Processing, Institut National des Sciences Appliquées de Lyon, France (2013)    
-Classe préparatoire d'ingénieur, Institut National des Sciences Appliquées de Lyon, France (2010) 
+Education
+----------
 
-## Academic Experience 
+
+**2017**  Ph.D. in Nanoelectronics, Université Grenoble-Alpes, France
+**2013**  M.Sc. in Electrical Engineering, Institut National des Sciences Appliquées de Lyon, France
+**2013**  M.Sc. in Signal and Image Processing, Institut National des Sciences Appliquées de Lyon, France
+**2010**  Classe préparatoire d'ingénieur, Institut National des Sciences Appliquées de Lyon, France
+
+Academic Experience 
+--------------------
+
 
 | 
 
