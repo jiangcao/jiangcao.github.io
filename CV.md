@@ -42,14 +42,6 @@ Professional Experience
 - **2012**, 6 months, electronic engineer, *Renault Trucks*, France
 
 
-Projects
----------
-
-- **2013**, designed an algorithm in Matlab for automatic recognition and classification of the snow accumulation on the road based on the camera images, 3 members
-- **2012**, designed and implemented a circuit board based on dsPIC micro-controller in order to precisely control the angular position and velocity of an electric motor, 3 members
-- **2011**, implemented a digital filter to meet an amplitude response requirement by using VHDL and Xilinx FPGA, 4 members
-  
-
 
 
 
