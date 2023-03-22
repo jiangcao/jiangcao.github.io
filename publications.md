@@ -15,6 +15,7 @@ permalink: /Publications/
 4. J. Cao, D. Logoteta, M. Pala, and A. Cresti, "Impact of momentum mismatch on 2D van der Waals tunnel field-effect transistors" Journal of Physics D: Applied Physics 51 (5), 055102 (2018) [link](http://iopscience.iop.org/article/10.1088/1361-6463/aaa1b6/meta)
 5. J. Cao, J. Park, F. Triozon, M. Pala, A. Cresti, "Simulation of 2D material-based tunnel field-effect transistors: planar vs. vertical architectures" Nanoelectronic Devices 1 (2018) [link](https://www.openscience.fr/IMG/pdf/iste_componano18v1n4.pdf)
 6. J. Cao, J.D. Querales-Flores, A.R. Murphy, S. Fahy, I. Savić, "Dominant electron-phonon scattering mechanisms in $n$-type PbTe from first principles" Physical Review B 98, 205202 (2018) [link](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.205202)
+7. Jiang Cao, José D Querales-Flores, Stephen Fahy, Ivana Savić, "Thermally induced band gap increase and high thermoelectric figure of merit of n-type PbTe" Materials Today Physics 12, 100172 (2020) 
 
 #### International conferences proceedings
  
